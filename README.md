@@ -1,4 +1,4 @@
-# Bangladesh Tea Market — Competitive Analysis
+# Bangladesh Tea Market Competitive Analysis
 
 A competitive analysis of the Bangladesh tea market, examining pricing, availability, certification, digital reach, category breadth and export status across six major brands. The analysis was conducted using Chaldal product listing data and presented as a 7-slide PowerPoint deck.
 
