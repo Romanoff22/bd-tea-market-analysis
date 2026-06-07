@@ -41,7 +41,7 @@ The gap is driven by format and brand positioning, not input cost — loose tea 
 Finlay has only 2 of 6 SKUs in stock (33%), and Fresh has 1 of 3 (33%). By contrast, KK maintains 79% availability and Ispahani 83%.
 
 ### 4. Ispahani dominates on social reach
-Ispahani has 1.1M Facebook followers, more than 5× Kazi & Kazi's 200K despite superior product quality and certification credentials. This represents a significant domestic digital gap for the premium segment.
+Ispahani has 1.1M Facebook followers, more than 5× Kazi & Kazi's 200K. This represents a significant domestic digital gap for the premium segment.
 
 ---
 
@@ -51,7 +51,7 @@ Ispahani has 1.1M Facebook followers, more than 5× Kazi & Kazi's 200K despite s
 Finlay's supply instability creates an acquisition window. Health-aware mid-tier buyers paying BDT 75–150/100g are the most likely adjacent segment to trade up to KK's certified organic black tea range.
 
 **02 — Close the domestic digital gap** *(Medium-term · Defense)*
-KK's certification story, international retail presence (Harrods, Whole Foods), and product quality give it stronger content material than any competitor. Closing half the gap with Ispahani through consistent social content would meaningfully expand the premium consumer funnel.
+KK's certification story, international retail presence and product quality give it stronger content material than any competitor. Closing half the gap with Ispahani through consistent social content would meaningfully expand the premium consumer funnel.
 
 **03 — Deepen the specialty/herbal moat** *(Long-term · Growth)*
 KK's specialty teas face zero certified organic competition domestically. Increasing SKU depth and in-stock reliability in this category protects the highest-margin range while competitors have no credible path to enter on certification.
