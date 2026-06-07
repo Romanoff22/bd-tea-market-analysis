@@ -45,7 +45,7 @@ Ispahani has 1.1M Facebook followers, more than 5× Kazi & Kazi's 200K despite s
 
 ---
 
-## Strategic Recommendations
+## Strategic Recommendations for the Market Leader
 
 **01 — Capture Finlay's disrupted customer base** *(Short-term · Opportunity)*
 Finlay's supply instability creates an acquisition window. Health-aware mid-tier buyers paying BDT 75–150/100g are the most likely adjacent segment to trade up to KK's certified organic black tea range.
