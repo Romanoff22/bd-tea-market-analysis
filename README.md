@@ -87,7 +87,7 @@ No statistical modeling was applied. This is a descriptive competitive analysis 
  
 ## Tools Used
  
-- Microsoft Excel — data collection, cleaning, and aggregation
+- Microsoft Excel — data collection, cleaning and aggregation
 - Microsoft PowerPoint — data visualization and presentation design
 ---
 
